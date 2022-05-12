@@ -3,6 +3,8 @@
 
 [Ethan Buchman: Local Money and Liquidity Saving](https://ebuchman.github.io/posts/local-money-liquidity-saving/)
 
+[Johanna McBurnie; Investigating the Role of Money: The Case of Salt Spring Dollars](https://www.uvic.ca/socialsciences/economics/assets/docs/honours/McBurnie.pdf)
+
 [Colin Drumm: The Difference That Money Makes](https://drive.google.com/file/d/1IZy2o238Ef3zOIfI724dt95UqookVe0b/view)
 
 
