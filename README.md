@@ -26,5 +26,12 @@
 [Vitalik Buterin: Quadratic Arithmetic Programs, From Zero to Hero](https://medium.com/@VitalikButerin/quadratic-arithmetic-programs-from-zero-to-hero-f6d558cea649)
 
 
+## Engineering
+[Lambda Calculus Overview](https://plato.stanford.edu/entries/lambda-calculus/)
+
+[An Introduction to Mathematical Cryptography](https://www.math.brown.edu/johsilve/MathCryptoHome.html), by Jeffrey Hoffstein, Jill Pipher, and Joseph H. Silverman
+
+[A Gentle Introduction to Optimization in Mathematical Programming](https://machinelearningmastery.com/a-gentle-introduction-to-optimization-mathematical-programming/), by Mehreen Saeed
+
 ## Misc.
 [Compiling C to Printable x86, to Make an Executable Research Paper](https://www.youtube.com/watch?v=LA_DrBwkiJA), by Tom Murphy
